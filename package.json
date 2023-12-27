@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "author": "yujian.jiang <yujian.jiang@zatech.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.2",
+    "@mui/material": "^5.15.2",
+    "@mui/styled-engine-sc": "6.0.0-alpha.10",
+    "@mui/x-data-grid": "^6.18.6",
+    "@mui/x-date-pickers": "^6.18.6",
+    "DatePicker": "link:@mui/x-date-pickers/DatePicker",
+    "dayjs": "^1.11.10",
+    "styled-components": "^6.1.4",
+    "umi": "^4.0.90"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "typescript": "^5.3.3"
+  }
+}
