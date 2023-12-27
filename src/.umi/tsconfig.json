@@ -27,7 +27,7 @@
         "src/.umi/*"
       ],
       "umi": [
-        "/Users/jiangyujian/Documents/code-test/node_modules/.pnpm/registry.npmjs.org+umi@4.0.90_@babel+core@7.23.6_@types+react@18.2.45_eslint@8.56.0_prettier@_3kijaduvreuxprneovy35cqmri/node_modules/umi"
+        "/Users/congger_macmini/Documents/Jagger/test/node_modules/.pnpm/umi@4.0.90_am4e5gmkriq5p22poshjji7use/node_modules/umi"
       ],
       "umi/typings": [
         "src/.umi/typings"
